@@ -8,6 +8,8 @@ type: docs
 
 **Quer entrar na área de programação?** 
 
+Primeiro passo para programar é o helou word
+
 Aqui você irá encontrar trilhas para áreas como **Front end**, **Back end** e **Fullstack**. 
 
 Esta é uma iniciativa open source. Caso queira contribuir aceitamos **Pull requests**.
