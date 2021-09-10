@@ -1,7 +1,14 @@
 ---
-title: Afinal, o que é programar?
-type: docs
-
+author: "Daniel Sender"
+date: 2014-09-28
+linktitle: O que é programar?
+menu:
+  main:
+    parent: tutorials
+next: /tutorials/github-pages-blog
+prev: /tutorials/automated-deployments
+title: O que é programar?
+weight: 40
 ---
 
 ## Afinal, o que é programar?
