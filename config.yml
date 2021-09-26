@@ -1,5 +1,5 @@
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
+title: Dev Roadmap
 paginate: 5
 theme: hugo-PaperMod
 
@@ -66,12 +66,7 @@ languages:
                 - name: Series
                   url: series
                   weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
+
 
     fa:
         languagedirection: rtl
@@ -125,15 +120,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Dev Roadmap"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            Comece **hoje mesmo** a programar com os nossos guias, tutoriais e dicas!!!
 
     socialIcons:
         - name: github

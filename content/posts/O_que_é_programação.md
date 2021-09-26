@@ -12,7 +12,7 @@ weight: 40
 
 ---
 
-## Afinal, o que é programar?
+# Afinal, o que é programar?
 
 [Por que todos deveriam aprender a programar?](https://www.youtube.com/watch?v=mHW1Hsqlp6A)
 
